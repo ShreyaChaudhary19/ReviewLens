@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node dependencies
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Secrets and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Editors
+.vscode/
+.idea/

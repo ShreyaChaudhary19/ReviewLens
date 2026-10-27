@@ -1,0 +1,8 @@
+{
+    "selected_model": "Naive Bayes",
+    "test_accuracy": 0.88125,
+    "test_precision_fake": 0.8388888888888889,
+    "test_recall_fake": 0.94375,
+    "test_f1_fake": 0.888235294117647,
+    "test_examples": 320
+}
